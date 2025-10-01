@@ -1,0 +1,8 @@
+# requirements.txt
+numpy
+pandas
+scikit-learn
+matplotlib
+torch       
+lassonet    
+joblib
