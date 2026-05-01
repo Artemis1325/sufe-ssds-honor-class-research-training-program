@@ -1,8 +1,10 @@
-# requirements.txt
 numpy
 pandas
+scipy
 scikit-learn
 matplotlib
-torch       
-lassonet    
+networkx
+torch
+lassonet
 joblib
+gseapy
